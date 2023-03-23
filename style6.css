@@ -33,6 +33,10 @@
     color: black;
 }
 
+.header p{
+    
+}
+
 .content_1 {
     grid-row-start: 2;
     grid-row-end: span 2;
